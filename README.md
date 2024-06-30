@@ -7,7 +7,7 @@ Cida currently Run ONLY on Windows Platform，please goto RELEASE for the softwa
 1. Download and Unzip the exe file, the decompression path should not have Chinese, otherwise the server will not start successfully;
 2. Double-click "Start System.bat" or "启动系统.bat";
 3. The system will automatically pop out of the local browser and automatically fill in the local IP address to access the system;
-4. Log in to the system with admin username, password 123456.
+4. Log in to the system with username:admin，password:123456.
 
 #Precautions
 1. If you can't access it, please check whether to turn off the firewall;
