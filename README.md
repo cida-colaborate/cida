@@ -1,7 +1,7 @@
 # cida
 Cida Software is a team knowledge management and file sharing management software that can be privately deployed to help your team and enterprise better manage knowledge wealth.
 
-Cida currently Run ONLY on Windows Platform!!!
+Cida currently Run ONLY on Windows Platform，please goto RELEASE for the software package. 
 
 #deploy instructions
 1. Download and Unzip the exe file, the decompression path should not have Chinese, otherwise the server will not start successfully;
